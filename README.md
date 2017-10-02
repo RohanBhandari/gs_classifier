@@ -1,2 +1,2 @@
 # gs_classifier
-Exploratory work for building a classifier to classify events that have a gluon splitting in them
+Exploratory work for building a classifier to determine if events have a gluon splitting in them
